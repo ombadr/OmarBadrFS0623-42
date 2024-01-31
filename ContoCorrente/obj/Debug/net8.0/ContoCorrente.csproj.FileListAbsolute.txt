@@ -1,0 +1,11 @@
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/bin/Debug/net8.0/ContoCorrente.deps.json
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/bin/Debug/net8.0/ContoCorrente.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/bin/Debug/net8.0/ContoCorrente.pdb
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/obj/Debug/net8.0/ContoCorrente.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/obj/Debug/net8.0/ContoCorrente.AssemblyInfoInputs.cache
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/obj/Debug/net8.0/ContoCorrente.AssemblyInfo.cs
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/obj/Debug/net8.0/ContoCorrente.csproj.CoreCompileInputs.cache
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/obj/Debug/net8.0/ContoCorrente.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/obj/Debug/net8.0/refint/ContoCorrente.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/obj/Debug/net8.0/ContoCorrente.pdb
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/obj/Debug/net8.0/ref/ContoCorrente.dll

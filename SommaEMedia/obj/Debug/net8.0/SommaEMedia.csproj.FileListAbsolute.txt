@@ -1,0 +1,11 @@
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/bin/Debug/net8.0/SommaEMedia.deps.json
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/bin/Debug/net8.0/SommaEMedia.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/bin/Debug/net8.0/SommaEMedia.pdb
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/obj/Debug/net8.0/SommaEMedia.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/obj/Debug/net8.0/SommaEMedia.AssemblyInfoInputs.cache
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/obj/Debug/net8.0/SommaEMedia.AssemblyInfo.cs
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/obj/Debug/net8.0/SommaEMedia.csproj.CoreCompileInputs.cache
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/obj/Debug/net8.0/SommaEMedia.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/obj/Debug/net8.0/refint/SommaEMedia.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/obj/Debug/net8.0/SommaEMedia.pdb
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/obj/Debug/net8.0/ref/SommaEMedia.dll

@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EntryProj/1.0.0": {
+        "dependencies": {
+          "ContoCorrente": "1.0.0",
+          "RicercaNome": "1.0.0",
+          "SommaEMedia": "1.0.0"
+        },
+        "runtime": {
+          "EntryProj.dll": {}
+        }
+      },
+      "ContoCorrente/1.0.0": {
+        "runtime": {
+          "ContoCorrente.dll": {}
+        }
+      },
+      "RicercaNome/1.0.0": {
+        "runtime": {
+          "RicercaNome.dll": {}
+        }
+      },
+      "SommaEMedia/1.0.0": {
+        "runtime": {
+          "SommaEMedia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntryProj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ContoCorrente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RicercaNome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SommaEMedia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

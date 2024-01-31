@@ -1,0 +1,11 @@
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/bin/Debug/net8.0/RicercaNome.deps.json
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/bin/Debug/net8.0/RicercaNome.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/bin/Debug/net8.0/RicercaNome.pdb
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/obj/Debug/net8.0/RicercaNome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/obj/Debug/net8.0/RicercaNome.AssemblyInfoInputs.cache
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/obj/Debug/net8.0/RicercaNome.AssemblyInfo.cs
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/obj/Debug/net8.0/RicercaNome.csproj.CoreCompileInputs.cache
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/obj/Debug/net8.0/RicercaNome.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/obj/Debug/net8.0/refint/RicercaNome.dll
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/obj/Debug/net8.0/RicercaNome.pdb
+/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/obj/Debug/net8.0/ref/RicercaNome.dll

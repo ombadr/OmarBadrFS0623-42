@@ -1,0 +1,127 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "ContoCorrente/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ContoCorrente.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ContoCorrente.dll": {}
+        }
+      },
+      "RicercaNome/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/RicercaNome.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RicercaNome.dll": {}
+        }
+      },
+      "SommaEMedia/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/SommaEMedia.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SommaEMedia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ContoCorrente/1.0.0": {
+      "type": "project",
+      "path": "../ContoCorrente/ContoCorrente.csproj",
+      "msbuildProject": "../ContoCorrente/ContoCorrente.csproj"
+    },
+    "RicercaNome/1.0.0": {
+      "type": "project",
+      "path": "../RicercaNome/RicercaNome.csproj",
+      "msbuildProject": "../RicercaNome/RicercaNome.csproj"
+    },
+    "SommaEMedia/1.0.0": {
+      "type": "project",
+      "path": "../SommaEMedia/SommaEMedia.csproj",
+      "msbuildProject": "../SommaEMedia/SommaEMedia.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "ContoCorrente >= 1.0.0",
+      "RicercaNome >= 1.0.0",
+      "SommaEMedia >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/omar/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/EntryProj/EntryProj.csproj",
+      "projectName": "EntryProj",
+      "projectPath": "/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/EntryProj/EntryProj.csproj",
+      "packagesPath": "/Users/omar/.nuget/packages/",
+      "outputPath": "/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/EntryProj/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/omar/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/ContoCorrente.csproj": {
+              "projectPath": "/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/ContoCorrente/ContoCorrente.csproj"
+            },
+            "/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/RicercaNome.csproj": {
+              "projectPath": "/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/RicercaNome/RicercaNome.csproj"
+            },
+            "/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/SommaEMedia.csproj": {
+              "projectPath": "/Users/omar/Documents/Epicode/corso_fs2023/settimana_13/giorno_3/esercitazione/SommaEMedia/SommaEMedia.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
